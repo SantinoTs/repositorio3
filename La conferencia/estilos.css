@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*---------Nav------------*/
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+.nav-links ul li a{
+    text-decoration: none;
+    color: rgb(151, 151, 151);
+}
+.nav-links ul li a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+/*-------------Conf Bs As------------------*/
+.text-box h1{
+    color: white; 
+    position: absolute; 
+    top: 425px; 
+    left: 1535px;
+}
+.text-box p{
+    color: white; 
+    position: absolute; 
+    text-align: right; 
+    top: 480px; 
+    left: 1230px;
+}
+.button-2{
+    position:absolute;
+    top: 620px; 
+    left: 1425px;
+}
+.button-3{
+    position:absolute;
+    top: 620px;
+    left: 1590px;
+}
+
+
+/*---------Conoce a los oradores------------*/
+
+.oradores{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+/*----------------------BsAs-Octubre------------------------*/
+.BsAsOctubre{
+    width: 100%;
+}
+/*-------------------Conviertete-en-un-orador------------------------------*/
+.ConvierteteOrador{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+/*-------------------------Footer---------------------------------*/
+.footer-links{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(38, 66, 99);
+}
+
+.footer-links ul li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    color: white;
+    text-decoration: none;
+}
+/*------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
